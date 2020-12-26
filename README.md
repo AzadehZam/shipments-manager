@@ -24,7 +24,7 @@ Criteria
 The full criteria for evaluating the coding challenge can be found here.
 
 Server-side
-The boilerplate includes a small service for data fetching. The file db.json includes all the necessary data to achieve the goal. Please follow the steps below to start the server:
+The boilerplate includes a small service for data fetching. The file db.json includes all the necessary data to achieve the goal. Please follow the steps below to start the server: https://github.com/typicode/json-server
 
 yarn or npm install .
 yarn start or npm start
