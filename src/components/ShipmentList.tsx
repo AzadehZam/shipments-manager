@@ -193,9 +193,9 @@ export default function ShipmentList({ listItems, onSelect }: Props) {
                 <div className={classes.searchDiv}>
                     <TextField
                         className={classes.searchInput}
-                        id="filled-basic"
-                        label="Search by id..."
-                        variant="filled"
+                        id="outlined-basic"
+                        label="Search by id"
+                        variant="outlined"
                         value={keyword}
                         onChange={e => setKeyword(e.target.value)}
                     />
